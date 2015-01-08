@@ -1,0 +1,7 @@
+Sleepy	KEYWORD1
+
+watchdogInterrupts (char mode);
+
+powerDown KEYWORD2
+loseSomeTime KEYWORD2
+watchdogEvent KEYWORD2
